@@ -9,7 +9,9 @@ just open the console where the code is located and type "python app.py"
 # The libraries you need to download to run this code are
 - pip install qrcode[pil]
 
-#Photos
+# Photos
+
+
 ![image](https://github.com/ayd1ndemirci/python-qrcode/assets/128159204/dce86a72-624e-4df7-8a97-cf6fef60fad0)
 
 
